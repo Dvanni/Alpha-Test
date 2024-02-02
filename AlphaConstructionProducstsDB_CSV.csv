@@ -1,0 +1,7 @@
+ProductID,ProductName,RevenuePerProduct,CostPerProduct,
+ 1 , Backhoe ," $25,000.00 "," $10,000.00 ",
+ 2 , Grader ," $35,000.00 "," $15,000.00 ",
+ 3 , Crane ," $50,000.00 "," $25,000.00 ",
+ 4 , Compactor ," $10,000.00 "," $3,500.00 ",
+ 5 , Loader ," $15,000.00 "," $10,000.00 ",
+ 6 , Forklift ," $6,000.00 "," $2,500.00 ",
